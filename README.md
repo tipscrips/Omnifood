@@ -18,5 +18,5 @@ Omnifood is an AI-powered food subscription that will make you eat healthy again
 
 ## Running a project locally
 1. Clone the repository:
-   master
+   master git clone
    https://github.com/tipscrips/Omnifood.git
